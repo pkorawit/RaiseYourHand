@@ -1,0 +1,24 @@
+{
+  "name": "raiseyourhand",
+  "version": "1.0.0",
+  "description": "web app for asking quesion in a classroom",
+  "main": "server.js",
+  "dependencies": {
+        "express": "~4.0.0",
+        "mongoose": "~4.7.2",
+        "body-parser": "~1.0.1"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkorawit/RaiseYourHand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkorawit/RaiseYourHand/issues"
+  },
+  "homepage": "https://github.com/pkorawit/RaiseYourHand#readme"
+}
